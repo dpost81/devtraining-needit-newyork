@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Using the NeedIt Form</h1>
+<h2 class="title sectiontitle">This is a Section Title</h2>
+<p>This is content below the section title.<br /><em>    Some italicised content.</em><br /><span class="ph uicontrol">    Some bold content.</span></p>
+<ul class="steps-unordered"><li class="li step">Here is a thing</li><li class="li step">Here is another thing.</li></ul>
+<p>Here is a numbered list</p>
+<ol class="steps-ordered"><li class="li step">First, all things are possible through God, so write that down.</li><li class="li step">Can I offer you an egg in this trying time?</li><li class="li step">Stupid science bitches.</li></ol>
+<div class="video"><iframe src="https://www.youtube.com/embed/zxQq1wB7A28?controls&#61;0" frameborder="0" allowfullscreen=""></iframe>
+<p class="p">Stupid Scientists</p>
+</div>
+<p> </p>
+<div class="note tm-element"><span class="notetitle">Note:</span></div>
+<p>When reading this, sometimes data is in notes, for... emphasis?</p>
+<div class="related-links role-embedded_help_admin tm-element">
+<div class="relinfo">
+<div class="reltitle">Related information<br />
+<div>
+<div class="note tm-element"><span class="notetitle">Note:</span></div>
+<p>Domain Controller Demotion</p>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<p> </p>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt List - Admin</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.admin" name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</role>
+        <role_order>10</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-19 19:50:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a09530cedbf10010901d6a4948961965</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt List - Admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_a09530cedbf10010901d6a4948961965</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-19 20:05:52</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=a09530cedbf10010901d6a4948961965"/>
+</record_update>
